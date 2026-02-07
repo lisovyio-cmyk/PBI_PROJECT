@@ -5,7 +5,7 @@ Ce dépôt contient le projet Power BI et ses livrables (rapport + documentation
 
 ## Contenu du dépôt
 
-- **SAE_PBIX (1).pbix**  
+- **SAE_PBIX .pbix**  
   Rapport Power BI (tableau de bord complet : pages, visuels, mesures DAX, modèle).
 
 - **Documentation_fonctionnelle_PowerBI_Greentech_Enedis.docx**  
@@ -22,7 +22,7 @@ Ce dépôt contient le projet Power BI et ses livrables (rapport + documentation
 
 ## Ouvrir le projet
 
-1. Télécharger **SAE_PBIX (1).pbix**
+1. Télécharger **SAE_PBIX .pbix**
 2. Ouvrir avec **Power BI Desktop**
 3. Lire les documentations `.docx` si besoin (fonctionnelle / technique)
 
