@@ -20,6 +20,10 @@ Ce dépôt contient le projet Power BI et ses livrables (rapport + documentation
 - **LICENSE**  
   Licence du dépôt (MIT).
 
+- **maquette.pdf**
+  Maquette utilisée pour illustrer le README (aperçu du projet).
+
+
 ## Ouvrir le projet
 
 1. Télécharger **SAE_PBIX .pbix**
